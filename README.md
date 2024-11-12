@@ -5,7 +5,6 @@ Operating systems Lab exercise
 
 # AIM:
 To write C Program that uses Linux Process API - fork(), wait(), exec()
-
 # DESIGN STEPS:
 ### Step 1:
 Navigate to any Linux environment installed on the system or installed inside a virtual environment like virtual box/vmware or online linux JSLinux (https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&mem=192) or docker.
@@ -67,7 +66,6 @@ int main() {
 ```
 ## OUTPUT
 ![image](https://github.com/230131249/Linux-Process-API-fork-wait-exec/assets/150232701/db258f01-95ec-4b17-b2a8-357b1245bbd3)
-
 
 ## C Program to execute Linux system commands using Linux API system calls exec() family
 ```
